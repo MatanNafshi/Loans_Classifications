@@ -1,4 +1,4 @@
-# **Loan Prediction Project**
+# **Loan Classification Project**
 
 ## **Overview**
 
