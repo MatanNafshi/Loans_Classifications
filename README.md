@@ -82,6 +82,10 @@ This project involves predicting loan approval status using machine learning tec
 1. **Data Exploration**:
    - Analyzed relationships between applicant income, intent, and loan status.
    - Explored how demographic and credit history features affect approvals.
+
+   ![image](https://github.com/user-attachments/assets/8d51dbf8-0e6d-43ce-80e1-148a31daccb2)
+
+
 2. **Data Preprocessing**:
    - Handled missing data for critical features.
    - Encoded categorical variables into numerical format.
