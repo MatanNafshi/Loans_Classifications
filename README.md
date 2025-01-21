@@ -100,7 +100,8 @@ This project involves predicting loan approval status using machine learning tec
    - Handled missing data for critical features.
    - Encoded categorical variables into numerical format.
    - Log-transformed skewed features for stability.
-    ![image](https://github.com/user-attachments/assets/25276e3f-5756-418b-9475-7812d7e96260)
+     
+  ![image](https://github.com/user-attachments/assets/25276e3f-5756-418b-9475-7812d7e96260)
 
 3. **Model Implementation**:
    - Built and tuned Decision Tree, AdaBoost, and SVM models.
