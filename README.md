@@ -60,6 +60,9 @@ This project involves predicting loan approval status using machine learning tec
   - Feature importance analysis for interpretability.
 - **Performance**:
   - Achieved **91.69% accuracy** with high recall for approved loans.
+  ![image](https://github.com/user-attachments/assets/5029e2c4-a8da-4627-9ea8-7e8dcd3e1484)
+  ![image](https://github.com/user-attachments/assets/b7e6c03d-c820-4dfd-964e-ede67a922ab4)
+
 
 ### **2. AdaBoost Classifier**
 - **Methodology**:
@@ -67,6 +70,9 @@ This project involves predicting loan approval status using machine learning tec
   - Tuned parameters: learning rate, number of estimators, and base depth.
 - **Performance**:
   - Achieved **93.12% accuracy**, improving overall recall for rejected loans.
+  ![image](https://github.com/user-attachments/assets/ca2bbb7f-62a1-44ac-9cf9-75e0ddf1874b)
+  ![image](https://github.com/user-attachments/assets/c5926e6a-c888-49e7-9e79-bfdba4ad8e1b)
+
 
 ### **3. Support Vector Machine (SVM)**
 - **Methodology**:
@@ -74,6 +80,8 @@ This project involves predicting loan approval status using machine learning tec
   - Optimized `C`, `gamma`, and kernel type using randomized search.
 - **Performance**:
   - Balanced accuracy with reduced overfitting.
+  ![image](https://github.com/user-attachments/assets/5a4357fa-5049-4578-abaf-180badbbd716)
+  ![image](https://github.com/user-attachments/assets/e69dca7b-5ccd-4147-94c1-e8ebfcc23eb3)
 
 ---
 
@@ -85,11 +93,15 @@ This project involves predicting loan approval status using machine learning tec
 
    ![image](https://github.com/user-attachments/assets/8d51dbf8-0e6d-43ce-80e1-148a31daccb2)
 
+   ![image](https://github.com/user-attachments/assets/6e71ad45-3506-4f8d-8854-39c24a6e2014)
+
 
 2. **Data Preprocessing**:
    - Handled missing data for critical features.
    - Encoded categorical variables into numerical format.
    - Log-transformed skewed features for stability.
+    ![image](https://github.com/user-attachments/assets/25276e3f-5756-418b-9475-7812d7e96260)
+
 3. **Model Implementation**:
    - Built and tuned Decision Tree, AdaBoost, and SVM models.
    - Conducted 5-fold cross-validation for robust evaluation.
